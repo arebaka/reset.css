@@ -19,7 +19,7 @@ It is current as of September 2021.
 
 ## How?
 ```html
-<link rel="stylesheet" href="https://github.com/arebaka/reset.css/reset.min.css" />
+<link rel="stylesheet" href="https://github.com/arebaka/reset.css/raw/master/reset.min.css" />
 ```
 
 ## Where?
