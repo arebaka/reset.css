@@ -19,7 +19,7 @@ It is current as of September 2021.
 
 ## How?
 ```html
-<link rel="stylesheet" href="https://github.com/arebaka/reset.css/raw/master/reset.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/@arelive/reset.css@1.1.0/reset.min.css" />
 ```
 
 ## Where?

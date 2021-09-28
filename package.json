@@ -1,6 +1,6 @@
 {
   "name": "@arelive/reset.css",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "just another resetter for default CSS of the browser",
   "main": "reset.css",
   "scripts": {},
