@@ -5,6 +5,10 @@
  / __// -_) (_-< / -_)/ __/ _ / __/(_-< (_-<
 /_/   \__/ /___/ \__/ \__/ (_)\__//___//___/
 ```
+
+![](https://img.shields.io/tokei/lines/github/arebaka/reset.css)
+![](https://img.shields.io/github/repo-size/arebaka/reset.css)
+
 ## What?
 Just another resetter for default CSS of the browser.
 
