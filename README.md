@@ -8,6 +8,7 @@
 
 ![](https://img.shields.io/tokei/lines/github/arebaka/reset.css)
 ![](https://img.shields.io/github/repo-size/arebaka/reset.css)
+![](https://img.shields.io/codefactor/grade/github/arebaka/reset.css)
 
 ## What?
 Just another resetter for default CSS of the browser.
