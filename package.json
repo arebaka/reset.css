@@ -1,19 +1,22 @@
 {
   "name": "@arelive/reset.css",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "just another resetter for default CSS of the browser",
   "main": "reset.css",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arebaka/reset.css.git"
+  "homepage": "https://github.com/arebaka/reset.css#readme",
+  "scripts": {
+    "test": ":"
   },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "reset.css",
-    "reset.min.css"
-  ],
+  "bugs": {
+    "url": "https://github.com/arebaka/reset.css/issues"
+  },
+  "author": "arelive <me@are.moe> (https://are.moe)",
+  "license": "MIT",
+  "repository": "github:arebaka/reset.css",
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/arelive"
+  },
   "keywords": [
     "css",
     "reset",
@@ -21,10 +24,10 @@
     "browser",
     "fix"
   ],
-  "author": "arelive <me@are.moe>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/arebaka/reset.css/issues"
-  },
-  "homepage": "https://github.com/arebaka/reset.css#readme"
+  "files": [
+    "LICENSE",
+    "README.md",
+    "reset.css",
+    "reset.min.css"
+  ]
 }
